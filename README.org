@@ -1,0 +1,10 @@
+* cl-arxiv-api
+
+Wrappers around API of www.arXiv.org, written in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mabragor/cl-arxiv-api.git   |
+| commit  | f480905  |
+| systems | cl-arxiv-api |
+|---------+-------------------------------------------|
+
